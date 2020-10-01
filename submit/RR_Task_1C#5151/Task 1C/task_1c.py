@@ -1,22 +1,4 @@
 
-'''
-*****************************************************************************************
-*
-*        		===============================================
-*           		Rapid Rescuer (RR) Theme (eYRC 2019-20)
-*        		===============================================
-*
-*  This script is to implement Task 1C of Rapid Rescuer (RR) Theme (eYRC 2019-20).
-*
-*  This software is made available on an "AS IS WHERE IS BASIS".
-*  Licensee/end user indemnifies and will keep e-Yantra indemnified from
-*  any and all claim(s) that emanate from the use of the Software or
-*  breach of the terms of this agreement.
-*
-*  e-Yantra - An MHRD project under National Mission on Education using ICT (NMEICT)
-*
-*****************************************************************************************
-'''
 
 
 # Team ID:			[ 5151 ]
